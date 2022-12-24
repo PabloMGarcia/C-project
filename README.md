@@ -1,2 +1,1 @@
-# CSharp-projects
-Repository to upload C# projects
+# GUI with tab to manage data system
