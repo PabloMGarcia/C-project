@@ -1,1 +1,1 @@
-# GUI with tab to manage data system
+# GUI with tabs in C# to manage data system
