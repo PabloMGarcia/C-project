@@ -1,0 +1,15 @@
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\bin\Debug\net7.0-windows\GUI_with_Tab.exe
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\bin\Debug\net7.0-windows\GUI_with_Tab.deps.json
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\bin\Debug\net7.0-windows\GUI_with_Tab.runtimeconfig.json
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\bin\Debug\net7.0-windows\GUI_with_Tab.dll
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\bin\Debug\net7.0-windows\GUI_with_Tab.pdb
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\obj\Debug\net7.0-windows\GUI_with_Tab.csproj.AssemblyReference.cache
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\obj\Debug\net7.0-windows\GUI_with_Tab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\obj\Debug\net7.0-windows\GUI_with_Tab.AssemblyInfoInputs.cache
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\obj\Debug\net7.0-windows\GUI_with_Tab.AssemblyInfo.cs
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\obj\Debug\net7.0-windows\GUI_with_Tab.csproj.CoreCompileInputs.cache
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\obj\Debug\net7.0-windows\GUI_with_Tab.dll
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\obj\Debug\net7.0-windows\refint\GUI_with_Tab.dll
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\obj\Debug\net7.0-windows\GUI_with_Tab.pdb
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\obj\Debug\net7.0-windows\GUI_with_Tab.genruntimeconfig.cache
+C:\Users\garciapp\Desktop\Csharp_project\GUI_with_Tab\obj\Debug\net7.0-windows\ref\GUI_with_Tab.dll
